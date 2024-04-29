@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🤠
 
-<!--
-**Thaylla28/Thaylla28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Antônia Thaýlla Amorim Almeida
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.aluravom.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+00001117239044sp@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/taylor-taylor-swift-taylor-kiss-taylor-swift-kiss-gif-3494935584985962548)
