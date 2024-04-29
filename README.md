@@ -2,7 +2,7 @@
 
 Meu nome é Antônia Thaýlla Amorim Almeida
 
-- Estou estudando na [Alura](https://www.aluravom.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
