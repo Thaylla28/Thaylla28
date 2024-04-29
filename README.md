@@ -10,4 +10,4 @@ Meu nome é Antônia Thaýlla Amorim Almeida
 
 00001117239044sp@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/taylor-taylor-swift-taylor-kiss-taylor-swift-kiss-gif-3494935584985962548)
+![](https://media1.tenor.com/m/MICBZcf12DQAAAAC/taylor-taylor-swift.gif)
